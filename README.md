@@ -1,7 +1,7 @@
 # NFT
-Create NFT using ERC721.
+Create NFT using ERC721.ERC1155
+Deployed contract:
+https://ropsten.etherscan.io/address/0x9d6A7ECD3c4aF745095f50Dc8F79B3114d99cE64#tokentxnsErc1155 
 
-Deployed contract: [https://rinkeby.etherscan.io/address/0x5681b33b1bec2af77969f51079ea875aa8f48a23](https://rinkeby.etherscan.io/address/0x5681b33b1bec2af77969f51079ea875aa8f48a23)
-
-
-Opensea: [https://testnets.opensea.io/assets/0x5681b33b1bec2af77969f51079ea875aa8f48a23/1](https://testnets.opensea.io/assets/0x5681b33b1bec2af77969f51079ea875aa8f48a23/1)
+Opensea: 
+https://testnets.opensea.io/assets?search[query]=0x9d6A7ECD3c4aF745095f50Dc8F79B3114d99cE64 
